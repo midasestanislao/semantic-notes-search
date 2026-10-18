@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos y secretos
+.env
+.env.*
+*.pem
+*.key
+
+# Resultados generados
+completion.json
+matches.json
+out/
+
+# IDE / SO
+.vscode/
+.idea/
+.DS_Store
